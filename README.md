@@ -18,7 +18,7 @@ Xcode 26, SwiftUI, SwiftData, FoundationModels, Metal. <br>
 
 | The Main Sky | Task-specific Sub-Sky | Step-specific info |
 | :---: | :---: | :---: |
-| ![1](https://github.com/splattydoesstuff/flux/blob/5628accbd2a8ad560eda17fd5b140a47518d7f15/1.PNG?raw=true) | ![2](https://github.com/splattydoesstuff/flux/blob/5628accbd2a8ad560eda17fd5b140a47518d7f15/2.PNG?raw=true) | ![3](https://github.com/splattydoesstuff/flux/blob/5628accbd2a8ad560eda17fd5b140a47518d7f15/3.PNG?raw=true) |
+| ![1](https://github.com/splattydoesstuff/flux/blob/5628accbd2a8ad560eda17fd5b140a47518d7f15/1.PNG) | ![2](https://github.com/splattydoesstuff/flux/blob/994f930d716aa3faa56313003c8e5df366df64d3/2.PNG) | ![3](https://github.com/splattydoesstuff/flux/blob/5628accbd2a8ad560eda17fd5b140a47518d7f15/3.PNG) |
 
 ## How to Run
 

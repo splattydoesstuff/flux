@@ -6,13 +6,13 @@
 *Asia "Splatty" Ciafardini (me)'s Swift Student Challenge 2026 submission*
 </div>
 
-<div align="left">
 ## Tasks aren't easy for everyone.
 Sometimes, a big to-do can feel heavy - like a big bubble in the storm.<br>
 Flux is an app designed to help you get stuff done through a calming, interactive, and physics-driven sky metaphor. 
 
 Break down your overwhelming tasks, let the light in, and celebrate your focus!
 
+<div align="left">
 ## Built With...
 Xcode 26, SwiftUI, SwiftData, FoundationModels, Metal. <br>
 (i think i mentioned everything... if I didn't, let me know)

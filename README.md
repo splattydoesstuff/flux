@@ -6,6 +6,8 @@
   <i>Asia "Splatty" Ciafardini (me)'s Swift Student Challenge 2026 submission</i>
 </div>
 
+<br>
+
 ## Tasks aren't easy for everyone.
 Sometimes, a big to-do can feel heavy - like a big bubble in the storm.<br>
 Flux is an app designed to help you get stuff done through a calming, interactive, and physics-driven sky metaphor. 

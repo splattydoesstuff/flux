@@ -1,2 +1,24 @@
-# A new way to interact with your tasks.
-TODO: VoiceOver support
+# Flux
+**Meet a new way to interact with your tasks.**
+*Asia "Splatty" Ciafardini (me)'s Swift Student Challenge 2026 submission*
+
+## Tasks aren't easy for everyone.
+Sometimes, a big to-do can feel heavy - like a big bubble in the storm.
+Flux is a SwiftUI application designed to help you get stuff done through a calming, interactive, and physics-driven sky metaphor. 
+
+Break down your overwhelming tasks, let the light in, and celebrate your focus!
+
+## Built With...
+Xcode 26, SwiftUI, SwiftData, FoundationModel.
+
+|  |  |  |
+| :---: | :---: | :---: |
+| ![1](https://github.com/splattydoesstuff/flux/blob/5628accbd2a8ad560eda17fd5b140a47518d7f15/1.PNG) | ![2](https://github.com/splattydoesstuff/flux/blob/5628accbd2a8ad560eda17fd5b140a47518d7f15/2.PNG) | ![3](https://github.com/splattydoesstuff/flux/blob/5628accbd2a8ad560eda17fd5b140a47518d7f15/3.PNG) |
+
+## How to Run
+
+1. Clone the repository to your local machine.
+2. Open `Flux.xcodeproj` in **Xcode 26**;
+3. Build and run (`Cmd + R`). An Apple Intelligence-enabled device or simulator is required. iOS/iPadOS 26 ONLY.
+
+enjoy :))

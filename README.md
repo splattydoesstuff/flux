@@ -1,9 +1,9 @@
 # Flux
-**Meet a new way to interact with your tasks.**\n
+**Meet a new way to interact with your tasks.**<br>
 *Asia "Splatty" Ciafardini (me)'s Swift Student Challenge 2026 submission*
 
 ## Tasks aren't easy for everyone.
-Sometimes, a big to-do can feel heavy - like a big bubble in the storm.\n
+Sometimes, a big to-do can feel heavy - like a big bubble in the storm.<br>
 Flux is a SwiftUI application designed to help you get stuff done through a calming, interactive, and physics-driven sky metaphor. 
 
 Break down your overwhelming tasks, let the light in, and celebrate your focus!

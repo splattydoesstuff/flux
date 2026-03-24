@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="250" height="250" src="FluxIcon.png" alt="Flux" style="border-radius: 22.5%;">
+  <img width="250" height="250" src="FluxIcon.png" alt="Flux">
   <h1><b>Flux</b></h1>
 
   <b>Meet a new way to interact with your tasks.</b><br>

@@ -1,10 +1,12 @@
 <div align="center">
-  <img width="250" height="250" src="icon.png" alt="Flux">
+  <img width="250" height="250" src="FluxIcon.png" alt="Flux">
   <h1><b>Flux</b></h1>
 
 **Meet a new way to interact with your tasks.**<br>
 *Asia "Splatty" Ciafardini (me)'s Swift Student Challenge 2026 submission*
+</div>
 
+<div align="left">
 ## Tasks aren't easy for everyone.
 Sometimes, a big to-do can feel heavy - like a big bubble in the storm.<br>
 Flux is an app designed to help you get stuff done through a calming, interactive, and physics-driven sky metaphor. 
@@ -26,3 +28,4 @@ Xcode 26, SwiftUI, SwiftData, FoundationModels, Metal. <br>
 3. Build and run (`Cmd + R`). An Apple Intelligence-enabled device or simulator is required. iOS/iPadOS 26 ONLY.
 
 enjoy :))
+</div>

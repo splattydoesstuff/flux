@@ -1,4 +1,7 @@
-# Flux
+<div align="center">
+  <img width="250" height="250" src="icon.png" alt="Flux">
+  <h1><b>Flux</b></h1>
+
 **Meet a new way to interact with your tasks.**<br>
 *Asia "Splatty" Ciafardini (me)'s Swift Student Challenge 2026 submission*
 

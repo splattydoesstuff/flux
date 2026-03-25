@@ -16,7 +16,7 @@ Flux is an app designed to help you get stuff done through a calming, interactiv
 Break down your overwhelming tasks, let the light in, and celebrate your focus!
 
 ## Built With...
-Xcode 26, SwiftUI, SwiftData, FoundationModels, Metal. <br>
+Xcode 26, SwiftUI, SwiftData, FoundationModels, Metal, Vortex (third-party package). <br>
 (i think i mentioned everything... if I didn't, let me know)
 
 | The Main Sky | Task-specific Sub-Sky | Step-specific info |
